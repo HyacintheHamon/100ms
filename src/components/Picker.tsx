@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
   },
   chatFilterText: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.1,
-    
+
     textTransform: 'capitalize',
   },
 });

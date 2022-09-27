@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   },
   heading: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     fontSize: 34,
     lineHeight: 40,
     letterSpacing: 0.25,
@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   },
   description: {
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
-    
+
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.5,
@@ -44,11 +44,10 @@ const styles = StyleSheet.create({
     paddingLeft: 16,
     marginTop: 8,
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
   },
   joiningLinkInputText: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.25,
@@ -76,7 +75,6 @@ const styles = StyleSheet.create({
     borderColor: COLORS.SECONDARY.DISABLED,
   },
   joinButtonText: {
-    
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.5,

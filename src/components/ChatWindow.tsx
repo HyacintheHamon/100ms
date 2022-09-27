@@ -332,7 +332,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   chatHeading: {
-    
     fontSize: 20,
     lineHeight: 24,
     letterSpacing: 0.15,
@@ -350,7 +349,7 @@ const styles = StyleSheet.create({
   },
   chatFilterText: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
@@ -380,13 +379,13 @@ const styles = StyleSheet.create({
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.1,
-    
+
     textTransform: 'capitalize',
   },
   chatInput: {
     backgroundColor: COLORS.SURFACE.LIGHT,
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     borderColor: COLORS.BORDER.LIGHT,
     borderWidth: 1,
     borderRadius: 8,
@@ -434,7 +433,6 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   bannerText: {
-    
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
@@ -476,7 +474,6 @@ const styles = StyleSheet.create({
     padding: 4,
   },
   private: {
-    
     fontSize: 10,
     lineHeight: 16,
     letterSpacing: 1.5,
@@ -484,7 +481,6 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
   },
   senderName: {
-    
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.1,
@@ -493,14 +489,12 @@ const styles = StyleSheet.create({
     marginRight: 8,
   },
   messageTime: {
-    
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
   },
   messageText: {
-    
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.25,

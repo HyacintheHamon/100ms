@@ -4,41 +4,41 @@ import {Theme} from './types';
 export const FONTS = StyleSheet.create({
   H1: {
     fontSize: 72,
-    
+
     fontWeight: '700',
     fontStyle: 'normal',
     letterSpacing: -1.5,
   },
   H2: {
     fontSize: 48,
-    
+
     fontWeight: '700',
     fontStyle: 'normal',
     letterSpacing: -0.5,
   },
   H3: {
     fontSize: 40,
-    
+
     fontWeight: '700',
     fontStyle: 'normal',
     letterSpacing: 0.15,
   },
   H4: {
     fontSize: 28,
-    
+
     fontWeight: '700',
     fontStyle: 'normal',
     letterSpacing: 0.25,
   },
   H5: {
     fontSize: 24,
-    
+
     fontWeight: '700',
     fontStyle: 'normal',
   },
   H6: {
     fontSize: 20,
-    
+
     fontWeight: '700',
     fontStyle: 'normal',
     letterSpacing: 0.15,

@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   },
   peerName: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     paddingRight: 8,
   },
   peerNameContainer: {
@@ -141,12 +141,12 @@ const styles = StyleSheet.create({
   },
   roleChangeText: {
     paddingVertical: 12,
-    
+
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
   },
   headerName: {
     color: COLORS.PRIMARY.DEFAULT,
-    
+
     paddingLeft: 8,
   },
   headerIcon: {
@@ -217,7 +217,7 @@ const styles = StyleSheet.create({
   // },
   // brb: {
   //   color: COLORS.PRIMARY.DEFAULT,
-  //   
+  //
   // },
   brbOnContainer: {
     height: 25,
@@ -230,7 +230,6 @@ const styles = StyleSheet.create({
   },
   brbOn: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
   },
   statsContainer: {
     position: 'absolute',
@@ -242,7 +241,7 @@ const styles = StyleSheet.create({
   },
   statsText: {
     color: COLORS.WHITE,
-    
+
     fontSize: 16,
   },
   heroContainer: {
@@ -329,7 +328,6 @@ const styles = StyleSheet.create({
     width: 25,
   },
   interRegular: {
-    
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
   },
   status: {
@@ -345,7 +343,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   resolutionValue: {
-    
     paddingLeft: 16,
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
   },
@@ -426,7 +423,6 @@ const styles = StyleSheet.create({
     marginHorizontal: 6,
   },
   liveText: {
-    
     fontSize: 10,
     lineHeight: 16,
     textAlign: 'center',
@@ -448,7 +444,6 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingLeft: 48,
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
   },
   participantsSearchInputIcon: {
     position: 'absolute',
@@ -467,7 +462,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   participantsHeading: {
-    
     fontSize: 20,
     lineHeight: 24,
     letterSpacing: 0.15,
@@ -498,14 +492,13 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
-    
   },
   participantName: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.15,
-    
+
     textTransform: 'capitalize',
   },
   participantRole: {
@@ -513,7 +506,7 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
-    
+
     textTransform: 'capitalize',
   },
   participantSettings: {
@@ -542,7 +535,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.1,
-    
+
     textTransform: 'capitalize',
   },
   participantRolePickerContainer: {
@@ -558,14 +551,13 @@ const styles = StyleSheet.create({
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.5,
-    
   },
   roleChangeModalHeading: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
     fontSize: 20,
     lineHeight: 24,
     letterSpacing: 0.15,
-    
+
     textTransform: 'capitalize',
   },
   roleChangeModalDescription: {
@@ -573,7 +565,7 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
-    
+
     paddingTop: 8,
   },
   roleChangeModalPermission: {
@@ -581,7 +573,6 @@ const styles = StyleSheet.create({
     fontSize: 14,
     lineHeight: 20,
     letterSpacing: 0.25,
-    
   },
   roleChangeModalPermissionContainer: {
     flexDirection: 'row',
@@ -593,7 +584,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.5,
-    
+
     textTransform: 'capitalize',
   },
   roleChangeModalCheckBox: {
@@ -647,7 +638,7 @@ const styles = StyleSheet.create({
   },
   participantFilterText: {
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
+
     fontSize: 12,
     lineHeight: 16,
     letterSpacing: 0.4,
@@ -682,7 +673,6 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingLeft: 12,
     color: COLORS.TEXT.HIGH_EMPHASIS,
-    
   },
   error: {
     color: COLORS.INDICATORS.ERROR,
@@ -705,7 +695,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   statsModalText: {
-    
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.15,
@@ -748,7 +737,6 @@ const styles = StyleSheet.create({
     marginTop: 24,
   },
   statsModalCardHeading: {
-    
     fontSize: 10,
     lineHeight: 16,
     letterSpacing: 1.5,
@@ -756,7 +744,6 @@ const styles = StyleSheet.create({
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
   },
   statsModalCardDescription: {
-    
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.15,
@@ -791,7 +778,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     lineHeight: 20,
     letterSpacing: 0.25,
-    
+
     marginRight: 8,
   },
   backButton: {
@@ -822,7 +809,7 @@ const styles = StyleSheet.create({
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
     fontSize: 12,
     lineHeight: 16,
-    
+
     letterSpacing: 0.4,
   },
   screenshareContainer: {
@@ -836,7 +823,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     lineHeight: 24,
     letterSpacing: 0.15,
-    
+
     marginTop: 16,
   },
   screenshareButton: {

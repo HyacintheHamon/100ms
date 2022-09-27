@@ -8,7 +8,8 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "setup-firebase": "node setupFirebase.js"
+    "setup-firebase": "node setupFirebase.js",
+    "postinstall": "patch-package"
   },
   "dependencies": {
     "@100mslive/react-native-hms": "^0.9.92",

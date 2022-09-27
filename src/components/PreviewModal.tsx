@@ -270,12 +270,11 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
     fontSize: 18,
-    
+
     letterSpacing: 0.15,
     paddingHorizontal: 16,
   },
   name: {
-    
     fontSize: 14,
     lineHeight: 20,
     textAlign: 'center',
@@ -302,7 +301,6 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
   },
   joinButtonText: {
-    
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.5,
@@ -323,14 +321,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   avatarText: {
-    
     fontSize: 48,
     lineHeight: 52,
     textAlign: 'center',
     color: COLORS.TEXT.HIGH_EMPHASIS,
   },
   heading: {
-    
     fontSize: 20,
     lineHeight: 24,
     textAlign: 'center',

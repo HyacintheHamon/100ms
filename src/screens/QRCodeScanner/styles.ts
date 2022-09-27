@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
   },
   headerText: {
     color: COLORS.TEXT.MEDIUM_EMPHASIS,
-    
+
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.15,
@@ -52,7 +52,6 @@ const styles = StyleSheet.create({
     paddingRight: 12,
   },
   joinWithLinkText: {
-    
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.5,

@@ -410,7 +410,7 @@ const Welcome = () => {
           title="Name"
         />
         <CustomButton
-          title="Get Started ->"
+          title="Get Started"
           onPress={onPreviewPress}
           disabled={nameDisabled}
           viewStyle={[styles.startButton, nameDisabled && styles.disabled]}
